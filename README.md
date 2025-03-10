@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>髓母细胞瘤</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background: #0078d7;
+            color: #fff;
+            padding: 40px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: #fff;
+            padding: 30px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        h2 {
+            color: #0078d7;
+            margin-top: 30px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #0078d7;
+        }
+        p {
+            margin: 15px 0;
+            font-size: 1.1em;
+            line-height: 1.8;
+            text-indent: 2em; /* 首行缩进2字符 */
+        }
+        ul {
+            margin: 15px 0;
+            padding-left: 30px;
+        }
+        ul li {
+            margin: 10px 0;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .section:last-child {
+            margin-bottom: 0;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px 0;
+            background: #0078d7;
+            color: #fff;
+            margin-top: 40px;
+        }
+        .footer p {
+            margin: 0;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>髓母细胞瘤</h1>
+    </header>
+    <div class="container">
+        <div class="section">
+            <h2>1. 概念</h2>
+            <p>儿童髓母细胞瘤（Medulloblastoma）是一种高度恶性的胚胎性肿瘤，起源于小脑或第四脑室顶部，属于原始神经外胚层肿瘤（PNET）的一种。它是儿童最常见的恶性脑肿瘤之一，占所有儿童脑肿瘤的15%~20%，多见于5~10岁儿童，男性发病率略高于女性。</p>
+            <p>髓母细胞瘤具有高度侵袭性，易通过脑脊液播散至中枢神经系统其他部位（如脊髓），因此早期诊断和综合治疗至关重要。</p>
+        </div>
+        <div class="section">
+            <h2>2. 疾病分类</h2>
+            <p>根据世界卫生组织（WHO）分类和分子分型，髓母细胞瘤可分为以下类型：</p>
+            <h3>（1）组织学分类</h3>
+            <ul>
+                <li><strong>经典型髓母细胞瘤</strong>：最常见，占70%~80%，细胞密集，核深染。</li>
+                <li><strong>促纤维增生型/结节型</strong>：预后较好，常见于婴幼儿。</li>
+                <li><strong>大细胞型/间变型</strong>：恶性程度最高，预后较差。</li>
+            </ul>
+            <h3>（2）分子分型</h3>
+            <ul>
+                <li><strong>WNT型</strong>：占10%~15%，预后最好，常伴有CTNNB1基因突变。</li>
+                <li><strong>SHH型</strong>：占25%~30%，与PTCH1、SMO等基因突变相关，预后中等。</li>
+                <li><strong>Group 3型</strong>：占25%~30%，多见于婴幼儿，预后较差，常伴有MYC基因扩增。</li>
+                <li><strong>Group 4型</strong>：占30%~35%，预后中等，分子机制尚不明确。</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>3. 病因</h2>
+            <p>髓母细胞瘤的具体病因尚不明确，但可能与以下因素有关：</p>
+            <h3>（1）遗传因素</h3>
+            <ul>
+                <li><strong>基因突变</strong>：如CTNNB1、PTCH1、TP53等基因突变与髓母细胞瘤的发生密切相关。</li>
+                <li><strong>遗传综合征</strong>：某些遗传性疾病患儿髓母细胞瘤发病率较高，例如Gorlin综合征（基底细胞痣综合征）、Turcot综合征和Li-Fraumeni综合征。</li>
+            </ul>
+            <h3>（2）环境因素</h3>
+            <ul>
+                <li><strong>电离辐射</strong>：暴露于高剂量电离辐射可能增加髓母细胞瘤风险。</li>
+                <li><strong>化学物质</strong>：某些致癌物质（如亚硝酸盐）可能与肿瘤发生有关。</li>
+            </ul>
+            <h3>（3）其他因素</h3>
+            <ul>
+                <li><strong>病毒感染</strong>：某些病毒（如巨细胞病毒）可能与肿瘤发生有关。</li>
+                <li><strong>免疫因素</strong>：免疫系统功能异常可能参与肿瘤发生。</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>4. 临床症状</h2>
+            <p>髓母细胞瘤的症状与肿瘤部位、大小及脑脊液循环障碍有关，常见症状包括：</p>
+            <h3>（1）颅内压增高</h3>
+            <ul>
+                <li><strong>头痛</strong>：早晨加重，可能伴有恶心、呕吐。</li>
+                <li><strong>视乳头水肿</strong>：视力下降或视野缺损。</li>
+                <li><strong>意识改变</strong>：嗜睡、烦躁或昏迷。</li>
+            </ul>
+            <h3>（2）小脑功能障碍</h3>
+            <ul>
+                <li><strong>共济失调</strong>：行走不稳、动作不协调。</li>
+                <li><strong>平衡障碍</strong>：站立或坐立困难。</li>
+                <li><strong>眼球震颤</strong>：眼球不自主快速运动。</li>
+            </ul>
+            <h3>（3）脑脊液播散症状</h3>
+            <ul>
+                <li><strong>脊髓症状</strong>：背痛、肢体无力、感觉异常。</li>
+                <li><strong>脑神经麻痹</strong>：复视、面瘫、吞咽困难。</li>
+            </ul>
+            <h3>（4）其他症状</h3>
+            <ul>
+                <li><strong>癫痫发作</strong>：部分性或全身性癫痫。</li>
+                <li><strong>内分泌异常</strong>：如尿崩症、生长发育迟缓。</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>5. 诊断依据</h2>
+            <p>髓母细胞瘤的诊断需结合临床表现、影像学检查和病理学检查：</p>
+            <h3>（1）影像学检查</h3>
+            <ul>
+                <li><strong>颅脑MRI</strong>：首选检查方法，可清晰显示肿瘤位置、大小及与周围组织的关系。</li>
+                <li><strong>全脑全脊髓MRI</strong>：评估肿瘤是否播散至脊髓。</li>
+            </ul>
+            <h3>（2）病理学检查</h3>
+            <ul>
+                <li><strong>活检或手术切除</strong>：获取肿瘤组织进行病理学诊断，明确肿瘤类型和分级。</li>
+                <li><strong>分子病理学检测</strong>：检测CTNNB1、MYC等基因突变，指导治疗和预后评估。</li>
+            </ul>
+            <h3>（3）脑脊液检查</h3>
+            <ul>
+                <li><strong>细胞学检查</strong>：评估肿瘤是否播散至脑脊液。</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>6. 治疗方法</h2>
+            <p>髓母细胞瘤的治疗需根据肿瘤类型、分期和患儿年龄制定个体化方案，主要包括：</p>
+            <h3>（1）手术治疗</h3>
+            <ul>
+                <li><strong>完全切除</strong>：尽可能完全切除肿瘤，缓解颅内压增高症状。</li>
+                <li><strong>部分切除</strong>：适用于肿瘤与重要结构粘连紧密的情况。</li>
+            </ul>
+            <h3>（2）放射治疗</h3>
+            <ul>
+                <li><strong>全脑全脊髓放疗</strong>：适用于3岁以上患儿，预防肿瘤播散。</li>
+                <li><strong>局部放疗</strong>：针对肿瘤床进行放疗，减少复发风险。</li>
+            </ul>
+            <h3>（3）化学治疗</h3>
+            <ul>
+                <li><strong>适应症</strong>：所有患儿均需化疗，尤其是婴幼儿（避免放疗）。</li>
+                <li><strong>常用药物</strong>：顺铂、环磷酰胺、长春新碱、洛莫司汀等。</li>
+            </ul>
+            <h3>（4）靶向治疗</h3>
+            <ul>
+                <li><strong>适应症</strong>：复发或难治性髓母细胞瘤。</li>
+                <li><strong>常用药物</strong>：SHH通路抑制剂（如索拉非尼）、WNT通路抑制剂等。</li>
+            </ul>
+            <h3>（5）免疫治疗</h3>
+            <ul>
+                <li><strong>临床试验</strong>：包括免疫检查点抑制剂、CAR-T细胞疗法等。</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>7. 预后</h2>
+            <p>髓母细胞瘤的预后因肿瘤类型、分期和治疗方式而异：</p>
+            <h3>（1）预后因素</h3>
+            <ul>
+                <li><strong>分子分型</strong>：WNT型预后最好，Group 3型预后最差。</li>
+                <li><strong>手术切除程度</strong>：完全切除可显著改善预后。</li>
+                <li><strong>肿瘤分期</strong>：无播散（M0）患儿预后优于有播散（M1~M4）患儿。</li>
+                <li><strong>年龄</strong>：3岁以上患儿预后优于3岁以下患儿。</li>
+            </ul>
+            <h3>（2）生存率</h3>
+            <ul>
+                <li><strong>5年无事件生存率（EFS）</strong>：</li>
+                <ul>
+                    <li>WNT型：90%以上。</li>
+                    <li>SHH型：70%~80%。</li>
+                    <li>Group 3型：50%~60%。</li>
+                    <li>Group 4型：60%~70%。</li>
+                </ul>
+                <li><strong>5年总生存率（OS）</strong>：</li>
+                <ul>
+                    <li>WNT型：95%以上。</li>
+                    <li>SHH型：80%~90%。</li>
+                    <li>Group 3型：60%~70%。</li>
+                    <li>Group 4型：70%~80%。</li>
+                </ul>
+            </ul>
+            <h3>（3）后遗症</h3>
+            <ul>
+                <li><strong>神经功能障碍</strong>：共济失调、智力低下、学习困难。</li>
+                <li><strong>内分泌异常</strong>：生长激素缺乏、甲状腺功能减退。</li>
+                <li><strong>继发肿瘤</strong>：放疗后可能继发脑膜瘤、胶质瘤等。</li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer">
+        <p>&copy; 2025 髓母细胞瘤介绍</p>
+    </div>
+</body>
+</html>
